@@ -1,0 +1,4 @@
+[tool.poetry.scripts]
+install = "scripts:install"
+reqs = "scripts:reqs"
+start = "scripts:start"
